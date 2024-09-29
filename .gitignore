@@ -1,0 +1,5 @@
+*.xcbkptlist
+*.plist
+*.xcuserstate
+B_Labs Task.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+B_Labs Task.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved
