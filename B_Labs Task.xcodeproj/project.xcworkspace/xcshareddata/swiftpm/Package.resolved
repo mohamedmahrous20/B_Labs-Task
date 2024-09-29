@@ -1,0 +1,24 @@
+{
+  "originHash" : "372b6c415a3555950f8886cf378cf3323e95433a6228449fbe752b18515f11b7",
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "f455c2975872ccd2d9c81594c658af65716e9b9a",
+        "version" : "5.9.1"
+      }
+    },
+    {
+      "identity" : "alamofireeasylogger",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jankaltoun/AlamofireEasyLogger",
+      "state" : {
+        "revision" : "40224e5206d8f6561561c2b8d1a217d0c500253d",
+        "version" : "1.6.0"
+      }
+    }
+  ],
+  "version" : 3
+}
